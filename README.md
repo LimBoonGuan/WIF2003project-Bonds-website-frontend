@@ -5,7 +5,7 @@ This project only consists of the front-end. The back-end will be added at a lat
 
 Bonds is a online condominium management system where residents can check for latest information, manage visitor request, manage COVID-19 status, and check for facilities nearby. The admin view is the website is also available.
 
-
+Feel free to try out our website with the following accounts
 {unit: "O-00-00", password:"123", role:"admin"}
 
 {unit: "A-10-13", password:"123", role:"resident"}
