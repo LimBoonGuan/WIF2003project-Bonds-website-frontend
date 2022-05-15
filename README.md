@@ -1,5 +1,5 @@
 # WIF2003project-Bonds-website-frontend
-This is a 7-person group project for my faculty course WIF2003 Web Programming.
+This is a group project for my faculty course WIF2003 Web Programming.
 This project only consists of the front-end. The back-end will be added at a later date.
 
 
